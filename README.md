@@ -1,2 +1,1 @@
 # haidashi
-HAIDASHI
